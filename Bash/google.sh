@@ -6,4 +6,4 @@ $2 xdg-open http://google.com
 $3 xdg-open https://skillsforall.com/dashboard
 $4 xdg-open https://canvas.instructure.com/
 
-
+#end 
